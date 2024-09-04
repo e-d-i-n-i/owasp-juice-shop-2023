@@ -1,4 +1,6 @@
-# Accessing the Administration Panel 👤
+# Admin Section Challenge 👤
+
+This challenge is about accessing the administration section of the store.
 
 1. **Navigate to the Administration Panel**:
 

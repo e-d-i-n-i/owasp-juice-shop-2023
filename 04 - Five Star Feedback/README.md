@@ -1,5 +1,7 @@
 # Five-Star Feedback Challenge
 
+This challenge is about getting rid of all 5-star customer feedback.
+
 1. **Navigate to Feedback Section**:
 
    - Go to the relevant section where customer feedback is displayed. This is usually found under a feedback or reviews tab in the administration panel.

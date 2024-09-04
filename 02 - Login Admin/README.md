@@ -1,4 +1,6 @@
-# Bypassing Authentication 🔐
+# Logine Admin Challenge 🔐
+
+This challenge is about loging in with the administrator's account.
 
 1. **Navigate to Login**:
 
