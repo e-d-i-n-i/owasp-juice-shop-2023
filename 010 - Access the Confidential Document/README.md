@@ -17,7 +17,7 @@
      ```plaintext
      Check out our boring terms of use if you are interested in such lame stuff
      ```
-   - Hover over this link to reveal its destination. You should see an IP address indicating an FTP server:
+   - Hover over this link to reveal its destination. we should see an IP address indicating an FTP server:
      `plaintext
 127.0.0.1:42000/ftp/legal.md
 `
@@ -47,6 +47,6 @@
 
      ![alt text](image-4.png)
 
-   - You should now receive the flag for completing this challenge.
+   - We should now receive the flag for completing this challenge.
 
      ![alt text](image-5.png)
