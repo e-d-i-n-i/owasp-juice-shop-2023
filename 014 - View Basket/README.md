@@ -18,7 +18,7 @@
 
    - Click on **'Your Basket'** within the Juice Shop to trigger the request for the basket contents.
 
-     ![alt text](image-2.png)
+     ![alt text](image-3.png)
 
    - Burp Suite will capture the request.
 
@@ -28,9 +28,9 @@
      ```plaintext
      GET /rest/basket/1 HTTP/1.1
      ```
-   - The number `1` or `NaN` after `/basket/` represents your current user ID.
+   - The number `1` after `/basket/` represents your current user ID.
 
-     ![alt text](image-3.png)
+     ![alt text](image-2.png)
 
 4. **Modify the User ID**:
 
@@ -40,7 +40,7 @@
      ```
    - Forward the modified request in Burp Suite.
 
-     ![alt text](image-4.png)
+   ![alt text](image-4.png)
 
 5. **View the Other User's Basket**:
 
