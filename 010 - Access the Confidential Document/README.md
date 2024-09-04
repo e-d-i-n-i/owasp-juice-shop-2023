@@ -1,4 +1,4 @@
-# Access Confidential Document 📂
+# Access Confidential Document Challenge 📂
 
 **Objective**: Access a confidential document and retrieve a flag.
 
@@ -13,16 +13,17 @@
 
 2.  **Find the Confidential Link**:
 
-    - On the **About Us** page, look for a link that says:
-      ```plaintext
-      Check out our boring terms of use if you are interested in such lame stuff
-      ```
-    - Hover over this link to reveal its destination. we should see an IP address indicating an FTP server:
-      `plaintext
-127.0.0.1:42000/ftp/legal.md
-`
+        - On the **About Us** page, look for a link that says:
+          ```plaintext
+          Check out our boring terms of use if you are interested in such lame stuff
+          ```
+        - Hover over this link to reveal its destination. we should see an IP address indicating an FTP server:
+          `plaintext
 
-           ![alt text](image-1.png)
+    127.0.0.1:42000/ftp/legal.md
+    `
+
+               ![alt text](image-1.png)
 
 3.  **Access the FTP Server**:
 

@@ -1,4 +1,4 @@
-# Reset Jim's Password 🔐
+# Reset Jim's Password Challenge 🔐
 
 **Objective**: Reset the password for Jim's account via the Forgot Password mechanism with the original answer to his security question.
 
