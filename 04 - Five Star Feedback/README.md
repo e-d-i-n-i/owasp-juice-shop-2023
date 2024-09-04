@@ -1,4 +1,4 @@
-# Five-Star Feedback Challenge
+# Five-Star Feedback Challenge ⭐
 
 This challenge is about getting rid of all 5-star customer feedback.
 
