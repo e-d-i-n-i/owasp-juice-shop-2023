@@ -12,17 +12,14 @@
 
    ![alt text](image.png)
 
-2. **Login with Bender's Account**:
+2. **Enter Credentials**:
 
-   - After logging out, return to the login page.
-   - Use the following credentials to log in: -
-     **Username**:
-     `plaintext
-bender@juice-sh.op'--
-` - **Password**:
-     `plaintext
-a
-`
+   - In the username field, enter:
+     ```plaintext
+     bender@juice-sh.op'--
+     ```
+   - For the password, use a random value (e.g., `a`).
+
      ![alt text](image-1.png)
 
 3. **Access Benders Account**:
