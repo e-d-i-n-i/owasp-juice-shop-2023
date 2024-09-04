@@ -20,7 +20,7 @@
         - Hover over this link to reveal its destination. we should see an IP address indicating an FTP server:
           `plaintext
 
-    127.0.0.1:42000/ftp/legal.md
+    http://127.0.0.1:42000/ftp/legal.md
     `
 
                ![alt text](image-1.png)
@@ -30,7 +30,7 @@
     - Open a new browser tab or window.
     - Type the following address into the address bar:
       ```plaintext
-      127.0.0.1:42000/ftp
+       http://127.0.0.1:42000/ftp
       ```
     - Press **Enter** to access the FTP server.
 
