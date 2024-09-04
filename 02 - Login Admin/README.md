@@ -1,4 +1,4 @@
-# Logine Admin Challenge 🔐
+# Login Admin Challenge 🔐
 
 This challenge is about loging in with the administrator's account.
 
