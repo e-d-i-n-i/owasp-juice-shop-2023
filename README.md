@@ -12,5 +12,3 @@ Welcome to my journey through the OWASP Juice Shop 2023 challenges! This reposit
 ### Why This Matters
 
 The OWASP Juice Shop is a vulnerable web application that provides a safe environment to practice web security skills. By logging my solutions and strategies, I aim to contribute to the community and help others on their security journey.
-
-Feel free to explore, learn, and contribute!
