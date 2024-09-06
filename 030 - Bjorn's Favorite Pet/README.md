@@ -30,7 +30,10 @@ The goal of this challenge is to reset Bjorn's password by answering the securit
    - Proceed to reset the password by following the on-screen instructions.
 
 6. **Completion**:
+
    - If the answer is correct, you will successfully reset Bjorn’s password and receive the green flag.
+
+     ![alt text](image.png)
 
 ## Finding the Answer
 

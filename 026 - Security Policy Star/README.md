@@ -11,16 +11,23 @@ The goal of this challenge is to locate and access the security policy of the we
    - Open your browser.
    - Enter the following URL into the address bar:
      ```plaintext
-     http://127.0.0.1:42000/#/.well-known/security.txt
+     http://127.0.0.1:42000/.well-known/security.txt
      ```
    - Press Enter.
+
+   ![alt text](image.png)
 
 2. **View the Security Policy**:
 
    - The browser will display the security policy text file.
 
+     ![alt text](image-1.png)
+
 3. **Completion**:
+
    - By accessing and reviewing the security policy, you will successfully complete the challenge and receive the green flag.
+
+     ![alt text](image-2.png)
 
 ## Description
 

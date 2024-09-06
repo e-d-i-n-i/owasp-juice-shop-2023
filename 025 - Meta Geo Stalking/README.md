@@ -15,6 +15,8 @@ The goal of this challenge is to expose sensitive data through open source infor
    - Navigate to the **Photo Wall** page.
    - Locate and download an image posted by John.
 
+     ![alt text](image.png)
+
 4. **Extract EXIF Data**:
 
    - Open a terminal on Kali Linux (or your preferred OS).
@@ -24,6 +26,10 @@ The goal of this challenge is to expose sensitive data through open source infor
      exiftool favourite-hiking-place.png
      ```
    - This command will reveal GPS coordinates embedded in the image.
+
+     ![alt text](image-1.png)
+
+     ![alt text](image-2.png)
 
 5. **Identify the Location**:
 
@@ -48,7 +54,10 @@ The goal of this challenge is to expose sensitive data through open source infor
    - Set a new password and complete the reset process.
 
 9. **Success**:
+
    - Once you reset the password correctly, you will successfully pass the challenge and receive the green flag.
+
+     ![alt text](image-3.png)
 
 ## Description
 

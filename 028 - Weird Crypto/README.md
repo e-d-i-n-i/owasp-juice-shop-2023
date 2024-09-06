@@ -12,14 +12,21 @@ The goal of this challenge is to notify the Juice Shop about the use of a crypto
    - Navigate to the `lib` folder and open the file `insecurity.ts`: [insecurity.ts on GitHub](https://github.com/juice-shop/juice-shop/blob/master/lib/insecurity.ts).
    - Examine lines 42 and 43 in the file to identify the cryptographic algorithm used, which is "MD5 hash."
 
+     ![alt text](image.png)
+
 2. **Submit Feedback**:
 
    - Go to the Customer Feedback page in the Juice Shop application.
    - In the comment section, enter "MD5 Hash" to indicate the inappropriate use of this cryptographic algorithm.
    - Fill in any required fields and submit the feedback.
 
+     ![alt text](image-1.png)
+
 3. **Completion**:
+
    - After submitting the feedback, you will pass the challenge and receive the green flag.
+
+     ![alt text](image-2.png)
 
 ## Description
 

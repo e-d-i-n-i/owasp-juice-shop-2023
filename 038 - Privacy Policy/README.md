@@ -13,3 +13,5 @@ The goal of this challenge is to simply view the **Privacy Policy** of the OWASP
 ## Description
 
 This challenge emphasizes the importance of reading and understanding an application's privacy policy. It ensures that users are informed about how their data is collected, stored, and used, which is crucial for both compliance and transparency.
+
+![alt text](image.png)

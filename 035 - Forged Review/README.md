@@ -31,3 +31,5 @@ Post a product review as another user or edit any user's existing review.
 ## Completion:
 
 After submitting the modified review as another user, you will pass the challenge and receive a green flag.
+
+![alt text](image.png)

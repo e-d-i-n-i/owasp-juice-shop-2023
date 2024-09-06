@@ -40,6 +40,8 @@ Change the href of the link within the **OWASP SSL Advanced Forensic Tool (O-Saf
      PUT /api/products/9 HTTP/1.1
      ```
 
+     ![alt text](image.png)
+
 6. **Change the Product Description:**
 
    - Modify the product description by changing the `href` in the request’s description field to `https://owasp.slck.com`.

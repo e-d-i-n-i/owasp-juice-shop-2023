@@ -23,19 +23,27 @@ The goal of this challenge is to use visual clues from a photo uploaded by Emma 
 
    - The security question is: "Company you first worked for as an adult?"
    - To find the answer:
+
      - Go to the Photo Wall page.
      - Locate a photo uploaded by Emma, which includes a building with the caption "My old workplace."
      - Zoom in on the photo to examine the details. Look for a sticker or text on the building's windows.
      - Identify the company name from the sticker, which is "IT sec."
 
+       ![alt text](image.png)
+
+       ![alt text](image-2.png)
+
 5. **Reset Password**:
 
    - Return to the "Forgot Password" form.
-   - Enter the answer "IT sec" for the security question.
+   - Enter the answer "ITsec" for the security question.
    - Choose a new password and submit the form.
 
 6. **Completion**:
+
    - If the password reset is successful, you will receive the green flag for completing the challenge.
+
+     ![alt text](image-1.png)
 
 ## Description
 

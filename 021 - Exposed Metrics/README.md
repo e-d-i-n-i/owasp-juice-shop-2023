@@ -12,6 +12,13 @@ The goal of this challenge is to find and access an exposed endpoint that serves
    http://127.0.0.1:42000/metrics
    ```
 3. This will expose sensitive data meant for a monitoring system.
+
+   ![alt text](image.png)
+
 4. Once accessed, the challenge will be marked as complete, and you will see the green flag when you return to the homepage.
+
+   ![alt text](image-1.png)
+
+   ![alt text](image-2.png)
 
 This challenge shows how important it is to secure internal metrics endpoints from unauthorized access.

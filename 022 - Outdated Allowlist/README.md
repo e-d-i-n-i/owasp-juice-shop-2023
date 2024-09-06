@@ -10,12 +10,21 @@ The goal of this challenge is to find and redirect to a deprecated cryptocurrenc
 2. Right-click anywhere on the page and select **Inspect**.
 3. In the **Debugger** tab, locate the `main.js` file and copy the entire script.
 4. Use an online code beautifier (e.g., [Code Beautify](https://codebeautify.org)) to make the script readable.
+
+   ![alt text](image-2.png)
+
 5. Search for the term **'blockchain'** within the script to locate the outdated cryptocurrency address.
 6. Once found, go back to the Juice Shop and use the search bar to paste the address in this format:
+
    ```
-   https://www.blockchain.com/explorer/addresses/btc/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm
+   https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm
    ```
+
+   ![alt text](image-3.png)
+
 7. This will take you to Blockchain.com and automatically redirect you back to the homepage, completing the challenge.
+
+   ![alt text](image-1.png)
 
 ## Description
 

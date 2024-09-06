@@ -15,6 +15,8 @@ Exfiltrate the entire database schema definition via SQL Injection.
 
    - Use the search feature from the navbar on the Juice Shop website to initiate a search.
 
+     ![alt text](image.png)
+
 3. **Capture the Request:**
 
    - Verify that the communication is captured in Burp Suite.

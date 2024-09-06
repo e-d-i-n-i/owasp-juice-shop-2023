@@ -29,4 +29,6 @@ The goal of this challenge is to retrieve the image of Bjoern's cat in "melee co
    ```
 6. The cat image in "melee combat-mode" should now appear, successfully completing the challenge and triggering the flag.
 
+   ![alt text](image.png)
+
 This challenge emphasizes the importance of encoding in handling URLs and resources securely.

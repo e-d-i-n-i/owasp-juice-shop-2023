@@ -2,15 +2,24 @@
 
 ## Objective
 
-The goal of this challenge is to bypass the **Don't Repeat Yourself (DRY)** principle by submitting the same registration information multiple times, which exposes potential vulnerabilities related to repetitive actions in the registration process.
+Bypass the **Don't Repeat Yourself (DRY)** principle by submitting the same registration information multiple times, revealing vulnerabilities related to repetitive actions in the registration process.
 
 ## Instructions
 
 1. Go to the **registration** page on OWASP Juice Shop.
-2. Create a new account by filling in the email, password, and other required fields.
-3. Once the registration is successful, repeat the process using the **exact same information** (email, password, and other fields) at least twice or more.
-4. After the second registration, the challenge will be marked as completed, and you'll see the green flag.
+2. Create a new account by filling in the email and other required fields.
+3. For the password:
+
+   - First, type in a password.
+   - In the "repeat password" field, enter the same password until the validation shows green.
+   - After validation, change the first password and then hit **Register**.
+
+     ![alt text](image.png)
+
+4. After registration, the challenge will be marked as completed, and you’ll receive the green flag.
+
+   ![alt text](image-1.png)
 
 ## Description
 
-This challenge demonstrates how an application might fail to enforce proper validation or checks for duplicate registrations. By allowing the same user to register with identical details multiple times, it highlights the importance of enforcing unique constraints, especially in user management systems.
+This challenge demonstrates how an application may fail to properly validate or check for password consistency before submission. It highlights the importance of maintaining unique constraints and ensuring that security measures are enforced, especially in the user registration process.
