@@ -22,9 +22,11 @@ The goal of this challenge is to find and redirect to a deprecated cryptocurrenc
 
    ![alt text](image-3.png)
 
-7. This will take you to Blockchain.com and automatically redirect you back to the homepage, completing the challenge.
+7. This will take you to Blockchain.com, completing the challenge.
 
    ![alt text](image-1.png)
+
+   ![alt text](<Screenshot 2024-09-09 070311.png>)
 
 ## Description
 

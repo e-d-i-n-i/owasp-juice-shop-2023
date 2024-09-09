@@ -34,6 +34,8 @@ The aim of this challenge is to exploit a deprecated B2B interface that has not 
 8. After the request is forwarded, you should see a success message "2".
 9. Click **Forward** once more to complete the process.
 
+![alt text](<Screenshot 2024-09-09 071738.png>)
+
 ## Description
 
 This challenge demonstrates a security misconfiguration issue where an outdated and deprecated interface remains operational, allowing for potential exploitation. By manipulating file uploads and using Burp Suite to intercept and modify requests, you can bypass certain security controls and successfully complete the challenge.
